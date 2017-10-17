@@ -1,0 +1,124 @@
+.casa_caja{
+  width: 700px;
+  height: 700px;
+  margin: auto;
+  position: relative;
+  left: 155px;
+  top: 200px;
+
+}
+.pasto{
+  background-color: olive;
+  width: 700px;
+  height: 45px;
+  position:absolute;
+left: -140px;
+bottom: 285px;
+}
+.base{
+  background-color: teal;
+  width: 300px;
+  height: 150px;
+  position: relative;
+  top: 220px;
+  left:75px;
+}
+.techo{
+  width: 250px;
+   height: 0px;
+   border-right: 60px solid transparent;
+   border-left: 60px solid transparent;
+   border-bottom: 100px solid brown;
+   position:relative;
+   top: -20px;
+   left: 43px;
+}
+.ventana_1{
+  background-color: pink;
+  width: 70px;
+  height: 70px;
+  position: relative;
+  top: 10px;
+  left: 275px;
+}
+.ventana_2{
+  background-color: pink;
+  width: 70px;
+  height: 70px;
+  position: relative;
+  top: -60px;
+  left: 105px
+}
+.puerta{
+  background-color: brown;
+
+  width: 60px;
+  height: 90px;
+  position: relative;
+  bottom: 110px;
+  left: 195px;
+}
+.chimenea{
+  background-color: teal;
+
+  width: 35px;
+  height:35px;
+  position: relative;
+  bottom:385px;
+  left:255px;
+}
+.humo_1{
+width: 35px;
+height: 35px;
+-moz-border-radius: 50%;
+-webkit-border-radius: 50%;
+border-radius: 50%;
+background-color: silver;
+position: relative;
+left:325px;
+top:-520px;
+}
+.humo_2{
+  width: 45px;
+  height: 45px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-color: silver;
+  position: relative;
+  left: 270px;
+  top:-540px;
+}
+.humo_3{
+  width: 55px;
+  height: 55px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-color: silver;
+  position: relative;
+  left:245px;
+  top:-550px;
+}
+.sol_1{
+  width: 90px;
+  height: 90px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-color: orange;
+  position: relative;
+  left:-70px;
+  top:-730px;
+}
+.sol_2{
+  width: 65px;
+  height: 65px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background-color: yellow;
+  position: relative;
+  left:-57px;
+  top:-808px;
+}
